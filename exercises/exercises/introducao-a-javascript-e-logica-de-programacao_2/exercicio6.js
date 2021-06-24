@@ -6,6 +6,8 @@ let numeroImpar = 0;
 for (cont = 0; cont < numbers.length; cont += 1){
          if (numbers[cont] % 2 == 1){
          numeroImpar +=1;
+         }else{
+             console.log('Nenhum valor impar encontrado')
          }
 
 }
