@@ -1,9 +1,12 @@
+let n = 5;
+let asterisco = '*';
+let linha = '';
 
-for (cont = 0; cont < 5; cont+=1){
-   let  linha = '';
-   for (cont = 0; cont < 5; cont+=1){
+for (cont = 0; cont < n; cont+=1){
+    linha = '';
+   for (cont = 0; cont < n; cont+=1){
 
-    linha += '*';
+    linha += asterisco;
     console.log(linha);
 }
     }
