@@ -22,7 +22,12 @@ function createDaysOfTheWeek() {
     for (let cont = 0;cont < dezDaysList.length; cont+=1){
         let dayLi = document.createElement('li');
         dayLi.className = 'day';
-        if
+        if (dezDaysList === 24 || dezDaysList === 25 || dezDaysList === 31){
+          dayLi.className = 'holiday';
+        }
+        if(dezDaysList === 4 || dezDaysList === 11 || dezDaysList === 18 || dezDaysList === 25){
+          dayLi.className = 'friday';
+        }
     }
 
   }
