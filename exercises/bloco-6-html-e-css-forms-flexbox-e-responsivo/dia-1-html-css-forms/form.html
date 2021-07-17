@@ -4,19 +4,69 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Formulario | Trybe</title>
 </head>
 <body>
     <header>
     <h1>Formulario Exercicio</h1>
     </header>
-  <fieldset>
-      <input type="text" name="nome" id="nome">
-      <input type="text" name="email" id="email">
-      <input type="text" name="cpf" id="cpf">
-      <input type="text" name="endereco" id="endereco">
-      <input type="text" name="cidade" id="cidade">
-      <select name="estados" id="estados">Estados</select>
+    <form action="">
+      <fieldset class="container">
+        <div>
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome" placeholder="Digite seu nome" maxlength="40" required>
+      </div>
+      <div>
+        <label for="email">E-mail:</label>
+        <input type="text" name="email" id="email" placeholder="Digite seu e-mail" maxlength="50" required>
+      </div> 
+        <label for="cpf">CPF:</label>
+        <input type="text" name="cpf" id="cpf" maxlength="11" required>
+      <div>
+        <label for="endereco">Endereco:</label>
+        <input type="text" name="endereco" id="endereco" maxlength="200" required>
+      </div>
+        <label for="cidade">Cidade:</label>
+        <input type="text" name="cidade" id="cidade" maxlength="28" required>
+      <div>
+        <label for="estados">Selecione seu estado:</label>
+        <select name="estados" id="estados" required>Estados</select>
+      </div>
+        <label for="casa">Casa</label>
+        <input type="radio" name="tipo" id="casa" required>
+      <div>  
+        <label for="apartamento">Apartamento</label>
+        <input type="radio" name="tipo" id="apartamento" required>
+      </div>
+      </fieldset>
+    
+
+      <fieldset>
+          <label for="resumo">Resumo Curriculo:</label>
+          <textarea name="" id="resumo" cols="30" rows="10" maxlength="1000" required></textarea>
+
+            <label for="cargo">Cargo:</label>
+            <input type="text" name="cargo" id="cargo" maxlength="40" required>
+
+            <label for="desc-cargo">Descricao do cargo:</label>
+            <input type="text" name="desc-cargo" id="desc-cargo" maxlength="500" required>
+
+            <label for="data-inicio">Data de Inicio:</label>
+            <input type="text" name="data-inicio" id="data-inicio">
+
+            <button>Enviar</button>
+
+  </form>
+
+        <button>Prevent</button>
+
+
+        
+
+
+
+
   </fieldset>
 
   <script src="script.js"></script>
