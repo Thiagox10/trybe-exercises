@@ -36,7 +36,6 @@
     display: flex;
     justify-content: space-around;
     width: 100%;
-    
   }
   
   .menu-container li {
@@ -58,8 +57,7 @@
     flex-direction: column;
     flex-basis: 700px;
     flex-grow: 10;
-    
-    
+    color: white;
   }
   
   .movie-container h2 {
@@ -71,8 +69,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    
-
   }
   
   .card-container div {
@@ -97,7 +93,6 @@
     flex-grow: 1;
     border-radius: 10px;
     padding: 0 50px;
-    
   }
   
   .aside-container h3, h4 {
@@ -109,3 +104,4 @@
     margin: 10px 0;
     text-align: justify;
   }
+  
