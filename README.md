@@ -38,9 +38,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - TrybeWarts]()_
 ##### Bloco 7: JavaScript ES6 & Testes Unitáios
-- [X]-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X]7-2: _JavaScript ES6 - Objects_
-- [X]7-3: _Testes unitários em JavaScript_
+- [x]  1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _Testes unitários em JavaScript_
 - [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 ##### Bloco 8: JavaScript ES6
 - [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
