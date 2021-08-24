@@ -15,21 +15,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS](https://github.com/tryber/sd-014-b-project-lessons-learned/tree/diogofiuza-lessons-learned-project)_
+- [x] 3-5: _[Projeto - HTML & CSS](https://thiagox10.github.io/projects/lessons-learned/)_
 ##### Bloco 4: Introdução - JavaScript
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-014-b-project-playground-functions/pull/31)_
 ##### Bloco 5: Introdução - JavaScript - Projetos
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _JavaScript -Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[Projeto - Arte com Pixels]()_
-- [x] 5-6: _[Projeto - Lista de tarefas]()_
+- [x] 5-5: _[Projeto - Arte com Pixels](https://thiagox10.github.io/projects/pixels-art/)_
+- [x] 5-6: _[Projeto - Lista de tarefas](https://thiagox10.github.io/projects/to-do-list/)_
 ##### Bloco 6: HTML & CSS avançado
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -41,13 +41,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x]  1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-014-b-project-js-unit-tests/pull/42)_
 ##### Bloco 8: JavaScript ES6
 - [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-5: _[Projeto - Zoo functions](https://github.com/tryber/sd-014-b-project-zoo-functions/pull/33)_
 ##### Bloco 9: Assincronicidade & Callbacks
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
@@ -56,8 +56,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 10-1: _Primeiros passos no Jest_
 - [X] 10-2: _Jest - Testes Assíncronos_
 - [X] 10-3: _Jest - Simulando comportamentos_
-- [X] 10-4: _[Projeto - Jest Assícrono e Mocking](https://github.com/tryber/sd-014-b-project-jest/)_
-## Desenvolvimento Front-end :ampulheta_tempo_passando:
+- [X] 10-4: _[Projeto - Jest Assícrono e Mocking](https://github.com/tryber/sd-014-b-project-jest/pull/60)_
+## Desenvolvimento Front-end ⏳
 ##### Bloco 11: Introdução - React
 - [ ] 11-1: _'Hello, world!' no React!_
 - [ ] 11-2: _Componentes React_
@@ -93,7 +93,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 ##### Bloco 19: Projeto Final de Front-end
 - [ ] 19-1: _[Projeto - App de Receitas]()_
-## Desenvolvimento Back-end :ampulheta_tempo_passando:
+## Desenvolvimento Back-end ⏳
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 - [ ] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
@@ -110,7 +110,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 22-2: _Normalização, Formas Normais e Dumps_
 - [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [ ] 22-3: _[Projeto - One For All]()_
-##### Bloco 23: IntroduÃ§Ã£o - NoSQL
+##### Bloco 23: Introducao - NoSQL
 - [ ] 23-1: _MongoDB - Introdução_
 - [ ] 23-2: _Filter Operators_
 - [ ] 23-3: _[Projeto - Data Flights]()_
@@ -155,7 +155,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 30-3: _[Projeto - Webchat]()_
 ##### Bloco 32: Projeto
 - [ ] 31-1: _[Projeto - Trybeer]()_
-## Ciência da Computação :ampulheta_tempo_passando:
+## Ciência da Computação ⏳
 ##### Bloco 33: Introdução - Ciência da Computação
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
