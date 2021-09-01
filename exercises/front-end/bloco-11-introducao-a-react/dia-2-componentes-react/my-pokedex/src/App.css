@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width: 800px;
+
+}
+
+.Cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
