@@ -5,13 +5,14 @@ import data from './data'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <h1>Pokedex</h1>
-      <div className='Cards'>
-      <Pokedex array={data} />
+      <div className="App">
+        <div className='Cards'>
+        <Pokedex array={data} />
+        </div>
       </div>
-      
-    </div>
+  </div>
   );
 }
 
