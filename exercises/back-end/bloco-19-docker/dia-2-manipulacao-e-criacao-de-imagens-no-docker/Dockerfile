@@ -1,0 +1,1 @@
+ENTRYPOINT ["/bin/echo", "Hello World"]
